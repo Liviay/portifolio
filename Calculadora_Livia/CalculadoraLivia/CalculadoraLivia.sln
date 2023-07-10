@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraLivia", "CalculadoraLivia.csproj", "{B904AD2A-5244-4143-ACD1-621063775BCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B904AD2A-5244-4143-ACD1-621063775BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B904AD2A-5244-4143-ACD1-621063775BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B904AD2A-5244-4143-ACD1-621063775BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B904AD2A-5244-4143-ACD1-621063775BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {780A64DB-C9D6-4826-8A20-AD38BD5C62FD}
+	EndGlobalSection
+EndGlobal
